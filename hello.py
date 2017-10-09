@@ -5,5 +5,5 @@ __author__ = 'Xry'
 
 print('hoho')
 print(1)
-print('x')
+print(123456789)
 print(11111111111111111)
