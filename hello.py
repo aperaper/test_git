@@ -4,3 +4,5 @@ __author__ = 'Xry'
 
 
 print('hoho')
+print(1)
+print(123456789)
